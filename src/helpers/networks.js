@@ -57,7 +57,7 @@ export const networkConfigs = {
     currencyName: "MATIC",
     currencySymbol: "MATIC",
     rpcUrl: "https://rpc-mainnet.maticvigil.com/",
-    blockExplorerUrl: "https://explorer-mainnet.maticvigil.com/",
+    blockExplorerUrl: "https://polygonscan.com/",
     wrapped: "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
   },
   "0x13881": {
